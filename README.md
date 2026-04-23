@@ -127,5 +127,5 @@ AI-powered translator with 33 languages and African specialisation.
 - `verification_vouches` — Vouch records for verified user tick system
 
 ## AI Integration
-Uses Replit AI Integrations for OpenAI access (no user API key required).
+Uses open AI Integrations for OpenAI access (no user API key required).
 System prompt defines Amamhie Mmadu's identity: African cultural expert, multilingual, knows it was built by Nwaodoh.
